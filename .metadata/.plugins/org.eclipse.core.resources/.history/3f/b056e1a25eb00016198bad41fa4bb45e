@@ -1,0 +1,13 @@
+package
+{
+	import flash.display.Sprite;
+	
+	
+	public class zwClientServer extends Sprite
+	{
+		public function zwClientServer()
+		{
+			
+		}
+	}
+}

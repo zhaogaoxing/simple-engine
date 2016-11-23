@@ -1,0 +1,14 @@
+package UI.BasicControl
+{
+	import flash.display.Sprite;
+	import flash.text.TextField;
+	
+	public class InputField extends Sprite
+	{
+		public function InputField(width:uint=50,height:uint=20,border:Boolean=true,bordercolor:uint=0x000000,textcolor:uint=0x000000)
+		{
+			super();
+			var input:TextField=new TextField();
+		}
+	}
+}

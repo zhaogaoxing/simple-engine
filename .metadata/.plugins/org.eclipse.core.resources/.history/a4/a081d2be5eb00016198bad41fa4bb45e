@@ -1,0 +1,9 @@
+package Logic
+{
+	public class Manager
+	{
+		public function Manager()
+		{
+		}
+	}
+}

@@ -1,0 +1,10 @@
+package
+{
+	public class Client
+	{
+		public function Client()
+		{
+			
+		}
+	}
+}

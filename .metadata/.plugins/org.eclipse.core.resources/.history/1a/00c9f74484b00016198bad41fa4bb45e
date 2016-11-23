@@ -1,0 +1,12 @@
+package UI.DIALOG
+{
+	import flash.events.*;
+	public class DlgComing extends BasicDlg
+	{
+		public function DlgComing()
+		{
+			super();
+		}
+		
+	}
+}

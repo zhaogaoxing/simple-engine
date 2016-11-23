@@ -1,0 +1,13 @@
+package
+{
+	import flash.net.Socket;
+
+	public class Client
+	{
+		private var _socket:Socket = new Socket();
+		public function Client()
+		{
+			
+		}
+	}
+}

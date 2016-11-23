@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="40" version="2.0">
+<workbenchAdvisor/>
+<window height="1013" maximized="true" width="1146" x="-72" y="8">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="164" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="206" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="78" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1479778958672" focus="true" label="工作空间 － Flash">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="zwClientServer.as" partName="zwClientServer.as" path="Z:/flashlearn/zwClientServer/zwClientServer/src/zwClientServer.as" title="zwClientServer.as" tooltip="zwClientServer/src/zwClientServer.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/zwClientServer/src/zwClientServer.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="469" selectionTopPixel="0"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="UIManager.as" partName="UIManager.as" path="Z:/flashlearn/zwClientServer/zwClientServer/src/UI/UIManager.as" title="UIManager.as" tooltip="zwClientServer/src/UI/UIManager.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/zwClientServer/src/UI/UIManager.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2287" selectionTopPixel="396"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="DlgConnect.as" partName="DlgConnect.as" path="Z:/flashlearn/zwClientServer/zwClientServer/src/UI/DIALOG/DlgConnect.as" title="DlgConnect.as" tooltip="zwClientServer/src/UI/DIALOG/DlgConnect.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/zwClientServer/src/UI/DIALOG/DlgConnect.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1368" selectionTopPixel="652"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Button.as" partName="Button.as" path="Z:/flashlearn/zwClientServer/zwClientServer/src/UI/BasicControl/Button.as" title="Button.as" tooltip="zwClientServer/src/UI/BasicControl/Button.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/zwClientServer/src/UI/BasicControl/Button.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1099" selectionTopPixel="628"/>
+</editor>
+<editor id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="DlgBattle.as" partName="DlgBattle.as" path="Z:/flashlearn/zwClientServer/zwClientServer/src/UI/DIALOG/DlgBattle.as" title="DlgBattle.as" tooltip="zwClientServer/src/UI/DIALOG/DlgBattle.as" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/zwClientServer/src/UI/DIALOG/DlgBattle.as"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1799" selectionTopPixel="1122"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.ProblemView" partName="问题">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="问题">
+<expanded>
+<category IMemento.internal.id="错误（2 项）"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="控制台">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.packageexplorer" partName="包资源管理器">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" fpeIsFlat="0" fpeSortBy="1" sorter="1">
+<fpeExpanded>
+<fpeElement fpePath="/zwClientServer"/>
+<fpeElement fpePath="/zwClientServer/src"/>
+<fpeElement fpePath="/zwClientServer/src/%typeDefaultPackage"/>
+<fpeElement fpePath="/zwClientServer/src/Logic"/>
+<fpeElement fpePath="/zwClientServer/src/UI"/>
+<fpeElement fpePath="/zwClientServer/src/UI/BasicControl"/>
+<fpeElement fpePath="/zwClientServer/src/UI/DIALOG"/>
+</fpeExpanded>
+<fpeSelection>
+<fpeElement fpePath="/zwClientServer/src/zwClientServer.as"/>
+</fpeSelection>
+<filters>
+<filter element=".flexProperties" isEnabled="true"/>
+<filter element=".actionScriptProperties" isEnabled="true"/>
+<filter element=".project" isEnabled="true"/>
+<filter element=".settings" isEnabled="true"/>
+<filter element=".flexLibProperties" isEnabled="true"/>
+<filter element=".DS_Store" isEnabled="true"/>
+<filter element=".model" isEnabled="true"/>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+<filter element=".flexProperties" isEnabled="true"/>
+<filter element=".actionScriptProperties" isEnabled="true"/>
+<filter element=".project" isEnabled="true"/>
+<filter element=".settings" isEnabled="true"/>
+<filter element=".flexLibProperties" isEnabled="true"/>
+<filter element=".DS_Store" isEnabled="true"/>
+<filter element=".model" isEnabled="true"/>
+<filter element="*.class" isEnabled="false"/>
+<filter element=".*" isEnabled="false"/>
+</filters>
+<expanded>
+<element path="/zwClientServer"/>
+</expanded>
+<selection>
+<element path="/zwClientServer/src/zwClientServer.as"/>
+</selection>
+</viewState>
+</view>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" partName="网络监视器">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView" partName="数据/服务">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="大纲">
+<viewState/>
+</view>
+<view id="com.adobe.flexbuilder.as.editor.asdocviewer" partName="ASDoc">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" activePerspective="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.adobe.flexbuilder.mxml.editor.ui.perspectives.DevelopmentPerspectiveFactory" id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development" label="Flash"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.editorcore.modeswitch"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.flashbridge.flashproject.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.designview.activationcontrol"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.wb.core.ui.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.debug.ui.flexDebuggingActionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.dcrad.actionSet"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.zzz.editors.common.ui.project.publish"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.exportimport.actionSet1"/>
+<alwaysOnActionSet id="com.adobe.flexbuilder.as.editor.ui.NavigationActions"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.AppearanceView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.components.ComponentsView"/>
+<show_view_action id="com.adobe.flexbuilder.packageexplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.inspector.view.PropertiesView"/>
+<show_view_action id="com.adobe.flexbuilder.mxml.editor.states.StatesViewer"/>
+<show_view_action id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.FlexLibraryProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.project.ui.wizards.NewActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flashbuilder.project.multiplatform.ui.MultiPlatformActionScriptProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.flashbridge.NewFlashProProjectWizard"/>
+<new_wizard_action id="com.adobe.flexbuilder.editorcore.ui.project.wizards.newflashcatalystproject"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLApplication"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLComponent"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLItemRenderer"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLModule"/>
+<new_wizard_action id="com.adobe.flexbuilder.mxml.editor.ui.wizards.NewMXMLSkin"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.wizards.NewActionScriptFile.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.classWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.interfaceWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.skinnableComponentWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.css.editor.wizards.NewCSSFile"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.flexUnitTestSuiteClassWizard.flex"/>
+<new_wizard_action id="com.adobe.flexbuilder.as.editor.packageWizard.flex"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="com.adobe.flexbuilder.editors.mxml.ui.perspectives.development"/>
+<perspective_action id="com.adobe.flexbuilder.debug.ui.perspectives.debug"/>
+<perspective_action id="com.adobe.flash.profiler.ui.ProfilingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.adobe.flexbuilder.packageexplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="com.adobe.flexbuilder.dcrad.views.DataServicesView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView"/>
+<view id="com.adobe.flexbuilder.as.editor.asdocviewer"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1f74864">
+<folder activePageID="com.adobe.flexbuilder.packageexplorer" appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.packageexplorer" label="包资源管理器"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1f74864">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.20643431" ratioLeft="231" ratioRight="888" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1f74864"/>
+<info folder="true" part="statesViewHolder" ratio="0.65" ratioLeft="520" ratioRight="280" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.mxml.editor.states.StatesViewer" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="propertiesHolder" ratio="0.24884081" ratioLeft="161" ratioRight="486" relationship="4" relative="statesViewHolder">
+<folder appearance="2" expanded="2">
+<page content="com.adobe.flexbuilder.mxml.editor.inspector.view.PropertiesView" label="LabelNotFound"/>
+<page content="com.adobe.flexbuilder.mxml.editor.AppearanceView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="bottomLayout" ratio="0.90357697" ratioLeft="581" ratioRight="62" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="问题"/>
+<page content="com.adobe.flexbuilder.dcrad.views.DataServicesView" label="数据/服务"/>
+<page content="com.adobe.flexbuilder.monitors.network.view.NetworkMonitorView" label="网络监视器"/>
+<page content="com.adobe.flexbuilder.as.editor.asdocviewer" label="ASDoc"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="控制台"/>
+<page content="com.adobe.flexbuilder.mxml.editor.design.internal.errors.view.DesignModeProblemsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="outlineHolder" ratio="0.4992272" ratioLeft="323" ratioRight="324" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1f74864">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="大纲"/>
+<page content="com.adobe.flexbuilder.mxml.editor.components.ComponentsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/zwClientServer.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/Logic/Manager.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/UIManager.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/Client.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/Server.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/DIALOG/BasicDlg.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/DIALOG/DlgBattle.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/BasicControl/Button.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/DIALOG/DlgComing.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/DIALOG/DlgConnect.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/BasicControl/Label.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/BasicControl/InputField.as"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" path="/zwClientServer/src/UI/BasicControl/Button.as"/>
+</editors>
+<item historyLabel="Button.as" index="7">
+<position info="not_deleted" x="1641" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="1471" y="0"/>
+</item>
+<item historyLabel="Server.as" index="4">
+<position info="not_deleted" x="1324" y="0"/>
+</item>
+<item historyLabel="BasicDlg.as" index="5">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="Client.as" index="3">
+<position info="not_deleted" x="1067" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Manager.as" index="1">
+<position info="not_deleted" x="323" y="0"/>
+</item>
+<item historyLabel="Button.as" index="7">
+<position info="not_deleted" x="1641" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="1939" y="0"/>
+</item>
+<item historyLabel="zwClientServer.as" index="0">
+<position info="not_deleted" x="372" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="187" y="0"/>
+</item>
+<item historyLabel="zwClientServer.as" index="0">
+<position info="not_deleted" x="372" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="1433" y="0"/>
+</item>
+<item historyLabel="BasicDlg.as" index="5">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="1433" y="0"/>
+</item>
+<item historyLabel="Client.as" index="3">
+<position info="not_deleted" x="1067" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="187" y="0"/>
+</item>
+<item historyLabel="Manager.as" index="1">
+<position info="not_deleted" x="323" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="1433" y="0"/>
+</item>
+<item historyLabel="zwClientServer.as" index="0">
+<position/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="2248" y="0"/>
+</item>
+<item historyLabel="zwClientServer.as" index="0">
+<position/>
+</item>
+<item historyLabel="BasicDlg.as" index="5">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="Manager.as" index="1">
+<position info="not_deleted" x="323" y="0"/>
+</item>
+<item historyLabel="BasicDlg.as" index="5">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="187" y="0"/>
+</item>
+<item historyLabel="Client.as" index="3">
+<position info="not_deleted" x="1067" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="187" y="0"/>
+</item>
+<item historyLabel="Server.as" index="4">
+<position info="not_deleted" x="1324" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="187" y="0"/>
+</item>
+<item historyLabel="BasicDlg.as" index="5">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="DlgComing.as" index="8">
+<position info="not_deleted" x="651" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="45" y="0"/>
+</item>
+<item historyLabel="DlgComing.as" index="8">
+<position info="not_deleted" x="651" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="45" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="2248" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="45" y="0"/>
+</item>
+<item historyLabel="BasicDlg.as" index="5">
+<position info="not_deleted" x="390" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="45" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="187" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="45" y="0"/>
+</item>
+<item historyLabel="Label.as" index="10">
+<position info="not_deleted" x="587" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="142" y="0"/>
+</item>
+<item historyLabel="InputField.as" index="11">
+<position info="not_deleted" x="625" y="0"/>
+</item>
+<item historyLabel="DlgConnect.as" index="9">
+<position info="not_deleted" x="1368" y="0"/>
+</item>
+<item historyLabel="UIManager.as" index="2">
+<position info="not_deleted" x="2287" y="0"/>
+</item>
+<item historyLabel="zwClientServer.as" index="0">
+<position info="not_deleted" x="551" y="0"/>
+</item>
+<item historyLabel="Button.as" index="12">
+<position info="not_deleted" x="1099" y="0"/>
+</item>
+<item historyLabel="DlgBattle.as" index="6">
+<position info="not_deleted" x="1799" y="0"/>
+</item>
+<item active="true" historyLabel="zwClientServer.as" index="0">
+<position info="not_deleted" x="551" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="DlgBattle.as" tooltip="zwClientServer/src/UI/DIALOG/DlgBattle.as">
+<persistable path="/zwClientServer/src/UI/DIALOG/DlgBattle.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Button.as" tooltip="zwClientServer/src/UI/BasicControl/Button.as">
+<persistable path="/zwClientServer/src/UI/BasicControl/Button.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="InputField.as" tooltip="zwClientServer/src/UI/BasicControl/InputField.as">
+<persistable path="/zwClientServer/src/UI/BasicControl/InputField.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Label.as" tooltip="zwClientServer/src/UI/BasicControl/Label.as">
+<persistable path="/zwClientServer/src/UI/BasicControl/Label.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="DlgConnect.as" tooltip="zwClientServer/src/UI/DIALOG/DlgConnect.as">
+<persistable path="/zwClientServer/src/UI/DIALOG/DlgConnect.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="DlgComing.as" tooltip="zwClientServer/src/UI/DIALOG/DlgComing.as">
+<persistable path="/zwClientServer/src/UI/DIALOG/DlgComing.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="BasicDlg.as" tooltip="zwClientServer/src/UI/DIALOG/BasicDlg.as">
+<persistable path="/zwClientServer/src/UI/DIALOG/BasicDlg.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Server.as" tooltip="zwClientServer/src/Server.as">
+<persistable path="/zwClientServer/src/Server.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Client.as" tooltip="zwClientServer/src/Client.as">
+<persistable path="/zwClientServer/src/Client.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="UIManager.as" tooltip="zwClientServer/src/UI/UIManager.as">
+<persistable path="/zwClientServer/src/UI/UIManager.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="Manager.as" tooltip="zwClientServer/src/Logic/Manager.as">
+<persistable path="/zwClientServer/src/Logic/Manager.as"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.adobe.flexbuilder.editors.actionscript.ActionScriptEditor" name="zwClientServer.as" tooltip="zwClientServer/src/zwClientServer.as">
+<persistable path="/zwClientServer/src/zwClientServer.as"/>
+</file>
+<file factoryID="com.adobe.flexbuilder.editors.derived.ui.startpage.StartPageEditorInput" id="com.adobe.flexbuilder.ui.StartPage" name="Web 浏览器" tooltip="文_[2733319] Flash Builder Welcome Screen">
+<persistable iconpath="platform:/plugin/com.adobe.flexbuilder.ui/icons/fb_app_16.png" style="20" tooltip="文_[2733319] Flash Builder Welcome Screen" url="file:/D:/Program Files/Adobe Flash Builder 4.6/eclipse/plugins/com.adobe.flexbuilder.ui_4.6.0.325268/welcome/index.html?firstLaunch=false&amp;edition=prem&amp;version=460"/>
+</file>
+</mruList>
+</workbench>

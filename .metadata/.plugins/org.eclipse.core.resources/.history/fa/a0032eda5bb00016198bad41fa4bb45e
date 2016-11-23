@@ -1,0 +1,15 @@
+package
+{
+	import flash.net.ServerSocket;
+	import flash.net.Socket;
+
+	public class Server
+	{
+		private var _socket:ServerSocket = new ServerSocket();
+		private var _client:Socket;
+		public function Server()
+		{
+		}
+		
+	}
+}

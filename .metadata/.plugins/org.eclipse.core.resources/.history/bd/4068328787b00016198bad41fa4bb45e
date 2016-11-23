@@ -1,0 +1,12 @@
+package UI.BasicControl
+{
+	import flash.display.Sprite;
+	
+	public class InputField extends Sprite
+	{
+		public function InputField()
+		{
+			super();
+		}
+	}
+}

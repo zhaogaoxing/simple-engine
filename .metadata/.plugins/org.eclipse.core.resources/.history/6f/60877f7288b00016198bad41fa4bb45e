@@ -1,0 +1,11 @@
+package UI.DIALOG
+{
+	import flash.events.*;
+	public class DlgConnect extends BasicDlg
+	{
+		public function DlgConnect()
+		{
+			super();
+		}
+	}
+}

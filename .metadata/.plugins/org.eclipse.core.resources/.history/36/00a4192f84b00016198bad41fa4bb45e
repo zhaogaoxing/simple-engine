@@ -1,0 +1,10 @@
+package UI.DIALOG
+{
+	public class DlgComing extends BasicDlg
+	{
+		public function DlgComing()
+		{
+			super();
+		}
+	}
+}

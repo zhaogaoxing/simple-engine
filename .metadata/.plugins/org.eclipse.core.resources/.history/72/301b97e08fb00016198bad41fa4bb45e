@@ -1,0 +1,85 @@
+package UI
+{
+	import UI.DIALOG.BasicDlg;
+	import UI.DIALOG.DlgBattle;
+	import UI.DIALOG.DlgComing;
+	import UI.DIALOG.DlgConnect;
+	
+	import flash.display.Sprite;
+	import flash.events.Event;
+	
+	public class UIManager extends Sprite
+	{
+		private var _stage:Object;
+		public function UIManager(stage:Object)
+		{
+			_stage=stage;
+			super();
+		}
+		public var dlgComing:DlgComing;
+		public var dlgConnect:DlgConnect;
+		public var dlgBattle:DlgBattle;
+		public function open(dlg:String):void
+		{
+			switch(dlg)
+			{
+				case "coming":
+					if(!dlgComing)
+					{
+						dlgComing=new DlgComing();
+					}
+					setCallBack(dlgComing,openComing,closeComing);
+					dlgComing.addEventListener(Event.ADDED_TO_STAGE,dlgComing.openCallBack);
+					_stage.addChild(dlgComing);
+					break;
+				case "connect":
+					if(!dlgConnect)
+					{
+						dlgConnect=new DlgConnect();
+					}
+					setCallBack(dlgConnect,openConnect,closeConnect);
+					dlgConnect.addEventListener(Event.ADDED_TO_STAGE,dlgConnect.openCallBack);
+					_stage.addChild(dlgConnect);
+					break;
+				case "battle":
+					if(!dlgBattle)
+					{
+						dlgBattle=new DlgBattle();
+					}
+					setCallBack(dlgBattle,openBattle,closeBattle);
+					dlgBattle.addEventListener(Event.ADDED_TO_STAGE,dlgBattle.openCallBack);
+					_stage.addChild(dlgBattle);
+			}
+		}
+		public function close(dlg:String):void
+		{
+			switch(dlg)
+			{
+				case "coming":
+					_stage.removeChild(dlgComing);
+					break;
+			}
+		}
+		private function setCallBack(dlg:BasicDlg,openCB:Function,closeCB:Function):void
+		{
+			dlg.setOpenCallBack(openCB);
+			dlg.setCloseCallBack(closeCB);
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

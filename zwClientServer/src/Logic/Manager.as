@@ -1,0 +1,22 @@
+package Logic
+{
+	public class Manager
+	{
+		private static var ply:int = -1;//0是服务端，1是客户端
+		public function Manager()
+		{
+		}
+		public static function setServer():void
+		{
+			ply=0;
+		}
+		public static function setClient():void
+		{
+			ply=1;
+		}
+		public static function get player():int
+		{
+			return ply;
+		}
+	}
+}

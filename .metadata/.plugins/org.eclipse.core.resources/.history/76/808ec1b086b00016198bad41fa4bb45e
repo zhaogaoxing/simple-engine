@@ -1,0 +1,12 @@
+package UI.BasicControl
+{
+	import flash.display.Sprite;
+	
+	public class Label extends Sprite
+	{
+		public function Label(text:String="",)
+		{
+			super();
+		}
+	}
+}

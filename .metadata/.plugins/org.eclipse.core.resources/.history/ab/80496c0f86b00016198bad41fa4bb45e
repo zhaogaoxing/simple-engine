@@ -1,0 +1,24 @@
+package UI.DIALOG
+{
+	import UI.BasicControl.Button;
+	
+	import flash.events.*;
+
+	public class DlgComing extends BasicDlg
+	{
+		public function DlgComing()
+		{
+			super();
+		}
+		private var startBtn:Button=new Button(80,50,0x006600);
+		public function initialize():void
+		{
+			startBtn.setTitle("开始");
+			startBtn.x=(stage.stageWidth-startBtn.width)/2;
+			startBtn.y=(stage.stageHeight-startBtn.height)/2;
+			startBtn.addEventListener(MouseEvent.CLICK,clkStart);
+			this.addChild(startBtn);
+		}
+		
+	}
+}

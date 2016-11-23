@@ -1,0 +1,10 @@
+package Logic
+{
+	public class Manager
+	{
+		private static var ply:int = -1;
+		public function Manager()
+		{
+		}
+	}
+}

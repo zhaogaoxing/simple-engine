@@ -1,0 +1,10 @@
+package UI.DIALOG
+{
+	public class DlgConnect extends BasicDlg
+	{
+		public function DlgConnect()
+		{
+			super();
+		}
+	}
+}

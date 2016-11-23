@@ -1,0 +1,19 @@
+package
+{
+	import flash.events.Event;
+	import flash.net.Socket;
+
+	public class Client
+	{
+		private var _socket:Socket = new Socket();
+		public function Client()
+		{
+			
+		}
+		public function connect():void
+		{
+			_socket.addEventListener(Event.CONNECT,onConnect);
+			_socket.connect(host,port);
+		}
+	}
+}

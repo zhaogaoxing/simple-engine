@@ -1,0 +1,22 @@
+package UI.DIALOG
+{
+	import flash.display.Sprite;
+	
+	public class BasicDlg extends Sprite
+	{
+		public function BasicDlg()
+		{
+			super();
+		}
+		public var openCallBack:Function;
+		public var closeCallBack:Function;
+		public function setOpenCallBack(f:Function):void
+		{
+			openCallBack = f;
+		}
+		public function setCloseCallBack(f:Function):void
+		{
+			closeCallBack = f;
+		}
+	}
+}

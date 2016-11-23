@@ -1,0 +1,19 @@
+package UI.DIALOG
+{
+	import UI.BasicControl.Button;
+	
+	import flash.events.*;
+
+	public class DlgComing extends BasicDlg
+	{
+		public function DlgComing()
+		{
+			super();
+		}
+		private var startBtn:Button=new Button(80,50,0x006600);
+		public function initialize():void
+		{
+			startBtn.setTitle();
+		}
+	}
+}

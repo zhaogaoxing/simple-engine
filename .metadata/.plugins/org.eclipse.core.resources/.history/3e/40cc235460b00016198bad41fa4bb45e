@@ -1,0 +1,12 @@
+package UI.DIALOG
+{
+	import flash.display.Sprite;
+	
+	public class BasicDlg extends Sprite
+	{
+		public function BasicDlg()
+		{
+			super();
+		}
+	}
+}

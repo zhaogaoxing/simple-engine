@@ -1,0 +1,9 @@
+package
+{
+	public class Server
+	{
+		public function Server()
+		{
+		}
+	}
+}

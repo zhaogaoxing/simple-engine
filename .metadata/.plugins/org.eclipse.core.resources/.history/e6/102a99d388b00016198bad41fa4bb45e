@@ -1,0 +1,21 @@
+package UI.DIALOG
+{
+	import UI.BasicControl.Button;
+	import UI.BasicControl.InputField;
+	import UI.BasicControl.Label;
+	
+	import flash.events.*;
+
+	public class DlgConnect extends BasicDlg
+	{
+		public function DlgConnect()
+		{
+			super();
+		}
+		private var _host:Label=new Label("主机");
+		private var _hostCode:InputField=new InputField(200,20);
+		private var _listen:Button=new Button(90,30,0x006600);
+		private var _connect:Button=new Button(90,30,0x006600);
+		
+	}
+}

@@ -1,0 +1,22 @@
+package UI.BasicControl
+{
+	import flash.display.Sprite;
+	import flash.events.MouseEvent;
+	
+	public class Button extends Sprite
+	{
+		public function Button(width:int=50,height:int=30,color:uint=0xffffff)
+		{
+			super();
+			this.buttonMode=true;
+			this.mouseEnabled=true;
+			this.mouseChildren=true;
+			this.graphics.beginFill(color);
+			this.graphics.drawRoundRect(0,0,width,height,10);
+			this.graphics.endFill();
+			this.addEventListener(MouseEvent.MOUSE_DOWN,downHandler);
+		}
+		
+		public function setTitle
+	}
+}
